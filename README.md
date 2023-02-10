@@ -1,4 +1,6 @@
-# Detection of ALS Signs Using Vision Transformers
+# Detection of ASL Signs Using Vision Transformers
+
+- Using Vision Transformers to try and classify ASL alphabets from this [dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet).
 
 ### This repository aims to achieve these tasks:
 
